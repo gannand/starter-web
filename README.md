@@ -10,5 +10,8 @@ Sample website with plenty of files for demos
 
 Move it.
 
+## How to:
+Do stuff
+
 ### Copyright
 Notice
