@@ -11,7 +11,7 @@ Sample website with plenty of files for demos. More words to know. So much more.
 Move it.
 
 ## How to:
-Do stuff
+Travel with a Salmon
 
 ### Copyright
 Notice
