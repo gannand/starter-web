@@ -11,7 +11,7 @@ Sample website with plenty of files for demos. More words to know. So much more.
 Move it.
 
 ## How to:
-Travel with a Salmon
+Travel with a Salmon, and other fish
 
 ### Copyright
 Notice
